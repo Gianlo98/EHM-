@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF26F628-8AAB-4BD8-94D0-D1445EA4AEC5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B76B82D2-F31F-45A8-87FE-43DB54B72D71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ehm/Models/Redmine/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "timeEntries"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B76B82D2-F31F-45A8-87FE-43DB54B72D71 - af37f6a9dc91f317"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ehm.RedmineHTTPClient.timeEntries.getter : Swift.Array&lt;ehm.RedmineTimeEntry&gt;"
+                  moduleName = "ehm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianlop/Develop/ehm/ehm/Models/Redmine/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "B76B82D2-F31F-45A8-87FE-43DB54B72D71 - 27ebc8937e45d63c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for ehm.RedmineHTTPClient.timeEntries.getter : Swift.Array&lt;ehm.RedmineTimeEntry&gt;"
+                  moduleName = "ehm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianlop/Develop/ehm/ehm/Models/Redmine/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "B76B82D2-F31F-45A8-87FE-43DB54B72D71 - 4f7184d36467d91a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ehm.RedmineHTTPClient.timeEntries.getter : Swift.Array&lt;ehm.RedmineTimeEntry&gt;"
+                  moduleName = "ehm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianlop/Develop/ehm/ehm/Models/Redmine/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA23180C-A86F-403B-9817-A0ABE7ED2F31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ehm/Models/Redmine/Network/Downloader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetch(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61C8EF97-C31B-4F6B-BE59-D43CD11AD5C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ehm/Models/Redmine/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "timeEntries"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "740BBC99-FC0A-436C-BAB5-369BC9DEF780"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ehm/Models/Redmine/Network/Downloader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetch(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D865304-F604-475F-B55B-34044236A9CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ehm/Models/Redmine/Network/Downloader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetch(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BA9B71E-BFD1-4436-92F7-2C4CD34178E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ehm/Models/Redmine/Network/Downloader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetch(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A246DB4C-FA9B-4544-AAEB-7BCDEF0AFE4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ehm/Models/Redmine/Network/Downloader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetch(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A246DB4C-FA9B-4544-AAEB-7BCDEF0AFE4A - cfb0e399c70b4842"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for __C.NSURLSession.fetch(from: Foundation.URL) async throws -&gt; Foundation.Data"
+                  moduleName = "ehm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianlop/Develop/ehm/ehm/Models/Redmine/Network/Downloader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "A246DB4C-FA9B-4544-AAEB-7BCDEF0AFE4A - aa22974c0e9b137b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for __C.NSURLSession.fetch(from: Foundation.URL) async throws -&gt; Foundation.Data"
+                  moduleName = "ehm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianlop/Develop/ehm/ehm/Models/Redmine/Network/Downloader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "A246DB4C-FA9B-4544-AAEB-7BCDEF0AFE4A - 323604eaad728440"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for __C.NSURLSession.fetch(from: Foundation.URL) async throws -&gt; Foundation.Data"
+                  moduleName = "ehm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianlop/Develop/ehm/ehm/Models/Redmine/Network/Downloader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "A246DB4C-FA9B-4544-AAEB-7BCDEF0AFE4A - 323604eaad728440"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for __C.NSURLSession.fetch(from: Foundation.URL) async throws -&gt; Foundation.Data"
+                  moduleName = "ehm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianlop/Develop/ehm/ehm/Models/Redmine/Network/Downloader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "A246DB4C-FA9B-4544-AAEB-7BCDEF0AFE4A - 2f76f5a320912241"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for __C.NSURLSession.fetch(from: Foundation.URL) async throws -&gt; Foundation.Data"
+                  moduleName = "ehm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianlop/Develop/ehm/ehm/Models/Redmine/Network/Downloader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
